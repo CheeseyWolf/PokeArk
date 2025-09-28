@@ -11,7 +11,136 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
+						"dino": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Angler/ARKOLOGY_Angler_Character_BP.ARKOLOGY_Angler_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Diplodocus/ARKOLOGY_Diplodocus_Character_BP.ARKOLOGY_Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eel/ARKOLOGY_Eel_Character_BP.ARKOLOGY_Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eurypterid/ARKOLOGY_Euryp_Character.ARKOLOGY_Euryp_Character_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dolphin/ARKOLOGY_Dolphin_Character_BP.ARKOLOGY_Dolphin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Lymantria/ARKOLOGY_Moth_Character_BP.ARKOLOGY_Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Sheep/ARKOLOGY_Sheep_Character_BP.ARKOLOGY_Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pelagornis/ARKOLOGY_Pela_Character_BP.ARKOLOGY_Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ant/QueenAnt_Character_BP_Tameable.QueenAnt_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Titanosaur/Arkology_Titanosaur_Character_BP.Arkology_Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Yuty/ARKOLOGY_Yutyrannus_Character_BP.ARKOLOGY_Yutyrannus_Character_BP_C",
+						"chancetodrop": 1
+					}
+				],
+				"dipstogive": 31
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
