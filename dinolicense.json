@@ -11,7 +11,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable_C",
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -19,11 +19,15 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable_C",
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Angler/ARKOLOGY_Angler_Character_BP.ARKOLOGY_Angler_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Diplodocus/ARKOLOGY_Diplodocus_Character_BP.ARKOLOGY_Diplodocus_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -43,7 +47,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_CP",
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_C",
 						"chancetodrop": 1
 					},
 					{
@@ -51,7 +55,15 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eel/ARKOLOGY_Eel_Character_BP.ARKOLOGY_Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Eurypterid/ARKOLOGY_Euryp_Character.ARKOLOGY_Euryp_Character_C",
 						"chancetodrop": 1
 					},
 					{
@@ -59,11 +71,11 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/NoUntameables/Lightbug/Lightbug_Character_BaseBP_Tameable.Lightbug_Character_BaseBP_Tameable_C",
+						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Dolphin/ARKOLOGY_Dolphin_Character_BP.ARKOLOGY_Dolphin_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -75,11 +87,23 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Lymantria/ARKOLOGY_Moth_Character_BP.ARKOLOGY_Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Sheep/ARKOLOGY_Sheep_Character_BP.ARKOLOGY_Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Pelagornis/ARKOLOGY_Pela_Character_BP.ARKOLOGY_Pela_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -95,11 +119,19 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Titanosaur/Arkology_Titanosaur_Character_BP.Arkology_Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Yuty/ARKOLOGY_Yutyrannus_Character_BP.ARKOLOGY_Yutyrannus_Character_BP_C",
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 23
+				"dipstogive": 31
 			},
 			{
 				"weekforoptions": [
