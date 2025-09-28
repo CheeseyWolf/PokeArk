@@ -97,7 +97,7 @@
 					{
 						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
 				],
 				"dipstogive": 23
 			},
@@ -194,7 +194,7 @@
 					{
 						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
 				],
 				"dipstogive": 23
 			},
@@ -291,7 +291,7 @@
 					{
 						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
 				],
 				"dipstogive": 23
 			},
@@ -388,7 +388,7 @@
 					{
 						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
-					},	
+					}
 				],
 				"dipstogive": 23
 			},
