@@ -13,7 +13,6 @@
 						"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter",
 						"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn",
                         "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP",
-                        "/Game/PrimalEarth/Dinos/Leech/Leech_Character_Diseased.Leech_Character_Diseased",
                         "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP",
                         "/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character",
                         "/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP",
@@ -94,15 +93,11 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character",
-						"chancetodrop": 0.9
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP",
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP.Dragonfly_Character_BP",
+						"dino": "/Game/Mods/NoUntameables/Dragonfly/Dragonfly_Character_BP_Tameable.Dragonfly_Character_BP_Tameable",
 						"chancetodrop": 0.9
 					},
 					{
