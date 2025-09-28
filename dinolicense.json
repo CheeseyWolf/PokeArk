@@ -1,44 +1,401 @@
 {
 	"DinoDipConfig": {
                 "alwaysallowtaming": [
-                        "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
-                        "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable_C",
-                        "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
-                        "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable_C",
-                        "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP_C",
-                        "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
-						"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-						"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-						"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-						"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-                        "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_CP",
-                        "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
-                        "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
-                        "/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
-                        "/Game/Mods/CrystalIsles/Assets/Dinos/HoneyBee/HoneyBee_Character_BP.HoneyBee_Character_BP_C",
-                        "/Game/Mods/NoUntameables/Lightbug/Lightbug_Character_BaseBP_Tameable.Lightbug_Character_BaseBP_Tameable_C",
-                        "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
-                        "/Game/ScorchedEarth/Dinos/Jugbug/JugBug_Character_BaseBP.JugBug_Character_BaseBP_C",
-                        "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character_C",
-                        "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
-                        "/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Oil_Character_BP.Jugbug_Oil_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP.Piranha_Character_BP_C",
-                        "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_BP.Salmon_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Ant/Ant_Character_BP.Ant_Character_BP_C",
-						"/Game/Mods/NoUntameables/Ant/QueenAnt_Character_BP_Tameable.QueenAnt_Character_BP_Tameable_C",
-                        "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
-                        "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character_C",
-                        "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
-                        "/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP_C",
-						"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C"
+					"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C"
                 ],
 		"weeksarrays": [
+			{
+				"weekforoptions": [
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_CP",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Lightbug/Lightbug_Character_BaseBP_Tameable.Lightbug_Character_BaseBP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ant/QueenAnt_Character_BP_Tameable.QueenAnt_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					}
+					{
+						"dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					
+				],
+				"dipstogive": 23
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_CP",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Lightbug/Lightbug_Character_BaseBP_Tameable.Lightbug_Character_BaseBP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ant/QueenAnt_Character_BP_Tameable.QueenAnt_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					}
+					{
+						"dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					
+				],
+				"dipstogive": 23
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_CP",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Lightbug/Lightbug_Character_BaseBP_Tameable.Lightbug_Character_BaseBP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ant/QueenAnt_Character_BP_Tameable.QueenAnt_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					}
+					{
+						"dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					
+				],
+				"dipstogive": 23
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_B_CP",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Lightbug/Lightbug_Character_BaseBP_Tameable.Lightbug_Character_BaseBP_Tameable_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/NoUntameables/Ant/QueenAnt_Character_BP_Tameable.QueenAnt_Character_BP_Tameable_C",
+						"chancetodrop": 1
+					}
+					{
+						"dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
+					},
+					
+				],
+				"dipstogive": 23
+			},
 			{
 				"weekforoptions": [
 					{
