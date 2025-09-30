@@ -625,9 +625,45 @@
 					{
 						"dino": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Yuty/ARKOLOGY_Yutyrannus_Character_BP.ARKOLOGY_Yutyrannus_Character_BP_C",
 						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cat/BP/RR_StarCat_Character_BP.RR_StarCat_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Chicken/BP/RR_StarChicken_Character_BP.RR_StarChicken_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cow/BP/RR_StarCowBull_Character_BP.RR_StarCowBull_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Crow/BP/RR_StarCrow_Character_BP.RR_StarCrow_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarHorse_Character_BP.RR_StarHorse_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarPony_Character_BP.RR_StarPony_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Pig/BP/RR_StarPig_Character_BP.RR_StarPig_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Rabbit/BP/RR_StarRabbit_Character_BP.RR_StarRabbit_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Sheep/BP/RR_StarSheep_Character_BP.RR_StarSheep_Character_BP_C",
+						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 156
+				"dipstogive": 165
 			},
 			{
 				"weekforoptions": [
@@ -778,9 +814,45 @@
 					{
 						"dino": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/YoungIceFox/ARKOLOGY_YoungIceFox_DinoCompanion_Character_BP.ARKOLOGY_YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cat/BP/RR_StarCat_Character_BP.RR_StarCat_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Chicken/BP/RR_StarChicken_Character_BP.RR_StarChicken_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cow/BP/RR_StarCowBull_Character_BP.RR_StarCowBull_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Crow/BP/RR_StarCrow_Character_BP.RR_StarCrow_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarHorse_Character_BP.RR_StarHorse_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarPony_Character_BP.RR_StarPony_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Pig/BP/RR_StarPig_Character_BP.RR_StarPig_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Rabbit/BP/RR_StarRabbit_Character_BP.RR_StarRabbit_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Sheep/BP/RR_StarSheep_Character_BP.RR_StarSheep_Character_BP_C",
+						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 37
+				"dipstogive": 46
 			},
 			{
 				"weekforoptions": [
@@ -931,9 +1003,45 @@
 					{
 						"dino": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/YoungIceFox/ARKOLOGY_YoungIceFox_DinoCompanion_Character_BP.ARKOLOGY_YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cat/BP/RR_StarCat_Character_BP.RR_StarCat_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Chicken/BP/RR_StarChicken_Character_BP.RR_StarChicken_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cow/BP/RR_StarCowBull_Character_BP.RR_StarCowBull_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Crow/BP/RR_StarCrow_Character_BP.RR_StarCrow_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarHorse_Character_BP.RR_StarHorse_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarPony_Character_BP.RR_StarPony_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Pig/BP/RR_StarPig_Character_BP.RR_StarPig_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Rabbit/BP/RR_StarRabbit_Character_BP.RR_StarRabbit_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Sheep/BP/RR_StarSheep_Character_BP.RR_StarSheep_Character_BP_C",
+						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 37
+				"dipstogive": 46
 			},
 			{
 				"weekforoptions": [
@@ -1084,9 +1192,45 @@
 					{
 						"dino": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/YoungIceFox/ARKOLOGY_YoungIceFox_DinoCompanion_Character_BP.ARKOLOGY_YoungIceFox_DinoCompanion_Character_BP_C",
 						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cat/BP/RR_StarCat_Character_BP.RR_StarCat_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Chicken/BP/RR_StarChicken_Character_BP.RR_StarChicken_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Cow/BP/RR_StarCowBull_Character_BP.RR_StarCowBull_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Crow/BP/RR_StarCrow_Character_BP.RR_StarCrow_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarHorse_Character_BP.RR_StarHorse_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Horse/BP/RR_StarPony_Character_BP.RR_StarPony_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Pig/BP/RR_StarPig_Character_BP.RR_StarPig_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Rabbit/BP/RR_StarRabbit_Character_BP.RR_StarRabbit_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Sheep/BP/RR_StarSheep_Character_BP.RR_StarSheep_Character_BP_C",
+						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 37
+				"dipstogive": 46
 			},
 			{
 				"weekforoptions": [
