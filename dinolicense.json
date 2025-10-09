@@ -892,6 +892,10 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
 						"chancetodrop": 0.9
+					},
+					{
+						"dino": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
+						"chancetodrop": 0.9
 					}
 				],
 				"dipstogive": 4
@@ -993,6 +997,10 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+						"chancetodrop": 0.9
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Fasolasuchus/Fasola_Character_BP.Faso_Character_BP_C",
 						"chancetodrop": 0.9
 					}
 				],
