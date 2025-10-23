@@ -359,6 +359,10 @@
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C",
 						"chancetodrop": 0.9
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
+						"chancetodrop": 0.9
 					}
 				],
 				"dipstogive": 4
